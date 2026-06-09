@@ -1,4 +1,4 @@
-# Database Engines Crash Course
+# Database-engines-crash-course
 ## Intro
 ### Docker notes
 When you spin up a docker container named "pg" for example, you can connect to it that in two methods
